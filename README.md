@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Marmoset 3D Viewer
+Example for preview Star Trek Ships after fix geometry and enhance texturing after capture model from the game, this viewer built by Marmoset toolbag 4.
 
 ## Available Scripts
 
